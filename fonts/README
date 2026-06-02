@@ -1,0 +1,16 @@
+These fonts were modified from the KoineGreek font created by Alan Bunning and available here: https://github.com/Center-for-New-Testament-Restoration/font
+
+Copyright (c) 2013 by Alan Bunning. All rights reserved.  Released under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+Attribution - You must give credit to Alan Bunning and the Center for New Testament Restoration, and any derivative work must likewise require that this attribution be included. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+Modifications by Joanna Woo for KoineGreekPlus:
+1. Lengthened glyph U+0305 slightly to show up better on the AndBible app.
+2. Detached glyphs U+03B1 to U+03C9, U+03DF and U+03F2 from U+0061 to U+007A, in order to free up the latin characters for notes.
+3. Changed metrics to more standard numbers (for things like highlighting to work properly).
+
+Modifications by Joanna Woo for KoineGreekPapyrus:
+The same as KoineGreekPlus and:
+4. Changed the space character U+0020 to be very small to eliminate spaces (like in papyri).
+5. Changed the variant unit delimiters ⸢ and ⸣ to be blank and of small width to disappear from the display. 
+6. Changed the hypen - to be blank and of small width to disappear from the display (so that words broken over two lines are not marked).
