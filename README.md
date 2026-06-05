@@ -39,7 +39,7 @@ The apparatus is provided in footnotes.  Symbols and abbreviations correspond to
 
 ## Having trouble reading Koine spelling?
 
-Try learning Dr. Randall Buth's [phonemic pronunciation system](https://www.biblicallanguagecenter.com/koine-greek-pronunciation/) which system treats certain letters as the same sound (phoneme) based on spelling variations in the 1st century.  I know from personal experience that his pronunciation and living language method will make reading SRKoine more natural because you will have internalized which letters sound the same.
+Try learning Dr. Randall Buth's [phonemic pronunciation system](https://www.biblicallanguagecenter.com/koine-greek-pronunciation/) which treats certain letters as the same sound (phoneme) based on spelling variations in the 1st century.  I know from personal experience that his pronunciation and living language method will make reading SRKoine more natural because you will have internalized which letters sound the same.
 
 ## Note for AndBible users:
 
