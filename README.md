@@ -35,7 +35,7 @@ For an even more authentic Koine experience, read this with the KoineGreekPlus f
 
 ## Apparatus: 
 
-The apparatus is provided in footnotes.  Symbols and abbreviations correspond to CNTR's [Apparatus tool](https://greekcntr.org/apparatus/index.html).  The apparatus and SR are constantly updated at the CNTR.  While the main text is the [2022 public version of the SR](https://github.com/Center-for-New-Testament-Restoration/SR), the apparatus data were kindly provided by Alan Bunning on May 23, 2026 and reflect an updated version of the SR on that date.  I made every effort to programatically match the notes with the correct words despite the mismatched versions.  Please let me know if you find mistakes.  
+The apparatus is provided in footnotes.  Symbols and abbreviations correspond to CNTR's [Apparatus tool](https://greekcntr.org/apparatus/index.html).  The apparatus and SR are constantly updated at the CNTR.  While the main text is the [2022 public version of the SR](https://github.com/Center-for-New-Testament-Restoration/SR), the apparatus data were kindly provided by Alan Bunning on June 9, 2026 and reflect an updated version of the SR on that date.  I made every effort to programatically match the notes with the correct words despite the mismatched versions.  Please let me know if you find mistakes.  
 
 ## Having trouble reading Koine spelling?
 
@@ -59,7 +59,7 @@ Copyright © 2022 by Alan Bunning released under the [Creative Commons Attributi
 Changes made by Joanna Woo:
 - Expanded Strong's Numbers converted to standard Strong's (for compatibility with SWORD dictionary modules)
 - Morphological codes converted to Robinson's (for compatibility with SWORD module Robinson)
-- Added apparatus data kindly provided by Alan Bunning on May 23, 2026, distributed in this module with permission.
+- Added apparatus data kindly provided by Alan Bunning on June 9, 2026, distributed in this module with permission.
 
 ## And last but not least, the most important credit:
 
