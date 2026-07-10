@@ -16,8 +16,6 @@ For an even more authentic Koine experience, read this with the KoineGreekPlus f
 
 ## Screenshots for AndBible:
 
-## Screenshots for AndBible:
-
 <table width=50%>
   <tr>
     <td>1 Cor. 1 using the KoineGreekPlus font.  The apparatus is shown for footnote a in verse 2.  </td>
