@@ -16,20 +16,28 @@ For an even more authentic Koine experience, read this with the KoineGreekPlus f
 
 ## Screenshots for AndBible:
 
+## Screenshots for AndBible:
 
-|                                                                                           |                                                                                                                                                                                                                                                                                                                                                                              |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 Cor. 1 using the KoineGreekPlus font. The apparatus is shown for footnote a in verse 2. | 1 Cor. 1 in full "Papyrus mode" using the KoineGreekPapyrus font. In AndBible, I also disabled footnotes, chapter & verse numbers and justify-align to get it to look like this. Note how επικαλουμενοισ breaks and continues on the next line like in a real papyrus (but the line breaks will depend on your font size). Strong's dictionary entry is shown for that word. |
-|                                                                                           |                                                                                                                                                                                                                                                                                                                                                                              |
-
+<table width=50%>
+  <tr>
+    <td>1 Cor. 1 using the KoineGreekPlus font.  The apparatus is shown for footnote a in verse 2.  </td>
+    <td>1 Cor. 1 in full "Papyrus mode" using the KoineGreekPapyrus font.  In AndBible, I also disabled footnotes, chapter & verse numbers and justify-align to get it to look like this.  Note how επικαλουμενοισ breaks and continues on the next line like in a real papyrus (but the line breaks will depend on your font size).  Strong's dictionary entry is shown for that word.</td>
+  </tr>
+  <tr>
+    <td width=50%><img src="screenshots/AndBible_apparatus.jpg"></td>
+    <td width=50%><img src="screenshots/AndBible_papyrus.jpg"></td>
+  </tr>
+</table>
 
 ## Screenshots for BibleTime:
-
-
-|                                          |
-| ---------------------------------------- |
-| BibleTime comparing SRKoine and SBLG_th. |
-|                                          |
+<table width=50%>
+  <tr>
+    <td>BibleTime comparing SRKoine and SBLG_th.</td>
+  </tr>
+  <tr>
+    <td width=50%><img src="screenshots/BibleTime.png"></td>
+  </tr>
+</table>
 
 
 ## Apparatus:
