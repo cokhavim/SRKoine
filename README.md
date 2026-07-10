@@ -71,4 +71,5 @@ Changes made by Joanna Woo:
 - Added apparatus data kindly provided by Alan Bunning on June 9, 2026, distributed in this module with permission.
 
 ## And last but not least, the most important credit:
+<img src="screenshots/Rom11:34-36.jpg" width="430">
 
