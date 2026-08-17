@@ -48,7 +48,7 @@ Try learning Dr. Randall Buth's [phonemic pronunciation system](https://www.bibl
 
 ## Note for AndBible users:
 
-There's a bug in at least v5.1.1091 where changing fonts on Ancient Greek documents (lang=grc) has no effect. Until that bug is fixed, try this hack to get the Koine font to work: plug your phone into your computer and open the new drive that appears (you might have to tap "Allow" on your phone). Navigate to "Internal storage/Android/data/net.bible.android.activity/files/mods.d".  Open SRKoine.conf with a text editor.  Look for "Lang=grc" and change that to "Lang=el".  Restart AndBible and enjoy reading in Koine font!
+If you have installed the FontPack module in AndBible, there's a fonts.css file that overrides user-selected fonts for Ancient Greek and Hebrew texts.  To solve this, either uninstall FontPack, or try this solution: plug your phone into your computer and open the new drive that appears (you might have to tap "Allow" on your phone). Navigate to "Internal storage/Android/data/net.bible.android.activity/files/modules/texts/ztext/FontPack/and-bible".  Open fonts.css with a text editor.  Change "font-family" to "#font-family" in all lines (adding the #).  Restart AndBible and enjoy reading in Koine font!
 
 ## About the SR:
 
